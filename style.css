@@ -174,17 +174,6 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  filter: brightness(1) saturate(0%);
-
-}
-
-.profile_pic {
-  display: flex;
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
-  border-radius: 10%;
-
 }
 
 .section__text {
@@ -349,7 +338,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 0.5rem;
+  gap: 2.5rem;
   justify-content: space-around;
 }
 
